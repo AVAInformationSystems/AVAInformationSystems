@@ -1,5 +1,5 @@
 
-![cover](./cover.png)
+![cover](./images/coverright.png)
 
 
 # AVA
@@ -16,19 +16,19 @@ To learn more about AVA visit our website at: [http://www.ava.info](http://www.a
 
 <a href=https://twitter.com/ava_information >
 <picture>
-    <source srcset="twitterwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="twitter.png">
+    <source srcset="./images/twitterwhite.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/twittergrey.png">
 </picture>
 </a>
 <a href=https://www.facebook.com/avainformation >
 <picture>
-    <source srcset="facebookwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="facebook.png">
+    <source srcset="./images/facebookwhite.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/facebookgrey.png">
 </picture>
 </a>
 <a href=https://www.linkedin.com/company/ava-information >
 <picture>
-    <source srcset="linkedinwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="linkedin.png">
+    <source srcset="./images/linkedinwhite.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/linkedingrey.png">
 </picture>
 </a>
