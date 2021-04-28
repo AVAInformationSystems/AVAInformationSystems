@@ -1,5 +1,5 @@
 
-![cover](./images/coverright.png)
+![cover][cover]
 
 
 # AVA
@@ -16,19 +16,24 @@ To learn more about AVA visit our website at: [http://www.ava.info](http://www.a
 
 <a href=https://twitter.com/ava_information >
 <picture>
-    <source srcset="./images/twitterwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="./images/twittergrey.png">
+    <source srcset="./images/twitter-white.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/twitter-grey.png">
 </picture>
 </a>
 <a href=https://www.facebook.com/avainformation >
 <picture>
-    <source srcset="./images/facebookwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="./images/facebookgrey.png">
+    <source srcset="./images/facebook-white.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/facebook-grey.png">
 </picture>
 </a>
 <a href=https://www.linkedin.com/company/ava-information >
 <picture>
-    <source srcset="./images/linkedinwhite.png" media="(prefers-color-scheme: dark)">
-    <img src="./images/linkedingrey.png">
+    <source srcset="./images/linkedin-white.png" media="(prefers-color-scheme: dark)">
+    <img src="./images/linkedin-grey.png">
 </picture>
 </a>
+
+[cover]: ./images/cover-right.png
+[twitter]: https://twitter.com/ava_information
+[linkedin]: https://www.linkedin.com/company/ava-information
+[facebook]: https://www.facebook.com/avainformation
